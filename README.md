@@ -1,1 +1,1 @@
-﻿# languages-api: Criação de API própria com Spring com CRUD finalizado.
+﻿# languages-api: Criação de API própria com Spring e CRUD finalizado.
